@@ -1,0 +1,11 @@
+Meats in diner
+
+edible (boolean)
+meat quality (string)
+tenderness (string)
+Level it is cooked (string)
+
+Cook Meat
+Pound Meat
+Prepare steak dinner
+prepare porkchops

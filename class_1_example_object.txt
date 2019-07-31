@@ -1,0 +1,11 @@
+Kyle
+
+good worker - true
+bad worker- false
+salary made- 15/hr
+position at work- server
+
+fire_worker (good worker) false- wouldn't fire a good worker
+promote worker (salary made) reward good worker for hard work, raise $
+punish_worker (good worker) false- wouldn't punish good worker
+warn_worker (good worker) false- wouldn't warn a good worker

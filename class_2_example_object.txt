@@ -1,0 +1,11 @@
+steak
+
+edible (true)
+meat quality (good)
+tenderness (very)
+level it is cooked (medium)
+
+burn steak (edible) false- steak is burnt to a crisp and not edible
+pound steak with meat hammer (tenderness) very- the pounding of the hammer on the steak increases its tenderness
+cook steak (medium) cook steak until slightly pink in the middle to obtain a medium steak
+drop steak on floor (edible) false- dropping a steak on the floor contaminates it and makes it not edible

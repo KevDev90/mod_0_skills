@@ -1,0 +1,11 @@
+workers
+
+good worker (boolean)
+bad worker (boolean)
+salary made (string)
+position at work (string)
+
+fire_worker
+promote_worker
+punish_worker
+warn_worker
