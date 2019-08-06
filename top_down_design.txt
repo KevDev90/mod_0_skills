@@ -2,8 +2,8 @@ Becoming a turing student
 
 1. Attend Try coding
  1.1 Sign up for session online
-  1.1.1 input name, phone number, email on sign up page
-  1.1.2 pay fee for try coding
+  1.1.1 Input name, phone number, email on sign up page
+  1.1.2 Pay fee for try coding
  1.2 Wait until the day the session starts
  1.3 Get in car
   1.3.1 Turn key, start car
@@ -17,12 +17,12 @@ Becoming a turing student
   2.1 Discuss why you want to get into programming
   2.2 Conduct logic quiz
    2.2.1 Work through each problem with instructor
-   2.3 leave interview
+   2.3 Leave interview
 
  3. Accept admission to Turing
   3.1 Pay deposit and tuition fees
-   3.1.1 arrange forms of payment
-  3.2 schedule which cohort to attend
+   3.1.1 Arrange forms of payment
+  3.2 Schedule which cohort to attend
 
 4. Begin Mod 0
  4.1 Attend session 1
@@ -30,13 +30,13 @@ Becoming a turing student
 4.2 Attend session 2
  4.2.1 Do session 2 homework
 4.3 Attend session 3
- 4.3.1 do session 3 homework
+ 4.3.1 Do session 3 homework
 4.4 Attend session 4
- 4.4.1 do session 4 homework
+ 4.4.1 Do session 4 homework
 4.5 Attend session 5
- 4.5.1 do session 5 homework
-4.6 complete capstone
-4.7 complete technical assessment
+ 4.5.1 Do session 5 homework
+4.6 Complete capstone
+4.7 Complete technical assessment
 4.8 Attend session 6
 
 5. Accept admission into Turing
